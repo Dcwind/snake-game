@@ -1,5 +1,5 @@
 /**
- * Created by User on 6/3/2016.
+ * Created by Daniel Ekwuazi on 6/3/2016.
  */
 function snake () {
     this.x = 0;
