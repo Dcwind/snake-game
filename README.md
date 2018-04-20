@@ -3,6 +3,6 @@
 
 
 To play click on the black background.
-Controls: the direction keys.
+Controls: Direction keys.
 
 https://codepen.io/DcWind/full/vKJPJw?editors=1010
